@@ -175,3 +175,4 @@ Tìm ít nhất **1 failure case** trong quá trình so sánh. Mô tả:
 - [ ] All tests pass: `pytest tests/ -v`
 - [ ] `src/` updated (cá nhân)
 - [ ] Report completed (`report/REPORT.md` — 1 file/sinh viên)
+`
